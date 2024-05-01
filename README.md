@@ -1,5 +1,4 @@
 # CPU and RAM usage on ubuntu
-
 ## Installation
 
 ```bash
@@ -19,3 +18,5 @@ pip install -r requirements.txt
 ```
 /home/user/bin/python /home/user/cpu_ram_usage/main.py
 ```
+
+<img src="img/picture.png" width="228" height="161">    
